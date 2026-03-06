@@ -44,7 +44,8 @@ Due to its ability to directly interact with hardware and memory, C is the backb
 * [Structures](https://github.com/3riy/C/tree/main/Structures)
 * [Unions](https://github.com/3riy/C/tree/main/Unions)
 * [Linked Lists](https://github.com/3riy/C/tree/main/Linked%20Lists)
-* [Stacks & Queues](https://github.com/3riy/C/tree/main/Stacks)
+* [Stacks](https://github.com/3riy/C/tree/main/Stacks)
+* [Queues](https://github.com/3riy/C/tree/main/Queues)
 * [Graphs](https://github.com/3riy/C/tree/main/Graphs)
 * [Searching and Sorting](https://github.com/3riy/C/tree/main/Searching%20and%20Sorting)
 
